@@ -72,6 +72,7 @@ form > div.campo {
     height: 40px;
     border-radius: 7px;
     margin: 6px 0px;
+    font-size: 0.9em;
 }
 
 div.campo > label {
@@ -102,9 +103,9 @@ div.campo > input:focus-within {
 
 }
 
-.campo {
+/* .campo {
     font-size: .9em;
-}
+} */
 
 form > input[type=submit] {
     display: block;
